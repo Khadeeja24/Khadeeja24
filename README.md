@@ -25,8 +25,7 @@ I’m pursuing a **Master’s in Data Science at Aligarh Muslim University (AMU)
 ---
 
 ## 🌐 Connect with Me  
-- **LinkedIn:** [linkedin.com/in/khadeeja2003]  
+- **LinkedIn:** [www.linkedin.com/in/khadeeja2003]  
 - **Email:** [khadeeja.ds24@gmail.com]  
 - **Resume:** [https://1drv.ms/b/c/160e303a15b311c1/ERH3Fi5ggmJBgweli-G98y4B_YB25Adkqu0Iq7ktaQtwFg?e=cInidJ]  
 
--->
