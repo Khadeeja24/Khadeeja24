@@ -27,7 +27,7 @@ I'm a dedicated Data Science student currently pursuing my **Master's** at **Ali
 
 ## 🚀 Experience & Projects
 
-### **Data Analyst Intern** | Green Genius Enviro Solutions | (March 2025 – June 2025) | 
+**Data Analyst Intern** | Green Genius Enviro Solutions | (March 2025 – June 2025) | 
 * Collaborated on developing a scalable data analysis tool for IoT-based environmental monitoring systems.
 * Implemented data cleaning, preprocessing, and feature extraction pipelines for large-scale sensor data.
 * Designed visualizations and statistical summaries to support actionable insights for environmental assessment.
