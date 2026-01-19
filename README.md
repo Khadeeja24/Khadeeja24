@@ -27,10 +27,13 @@ I'm a dedicated Data Science student currently pursuing my **Master's** at **Ali
 
 ## 🚀 Experience & Projects
 
-**Data Analyst Intern** | Green Genius Enviro Solutions | (March 2025 – June 2025) | 
-* Collaborated on developing a scalable data analysis tool for IoT-based environmental monitoring systems.
-* Implemented data cleaning, preprocessing, and feature extraction pipelines for large-scale sensor data.
-* Designed visualizations and statistical summaries to support actionable insights for environmental assessment.
+### **Data Analyst Intern** | Green Genius Enviro Solutions | (March 2025 – June 2025) | 
+[**IoT Environmental Monitoring & Analysis**]
+* **Objective**: Analyzed sensor patterns from multiple IoT devices across different environments to understand how external characteristics influence telemetry readings.
+* **Data Processing**: Engineered a robust pipeline to process and clean real-time data from seven distinct sensors: **Temperature, Humidity, CO, LPG, Smoke, Light, and Motion**.
+* **Analysis**: Identified distinct environmental patterns and seasonal trends, focusing on correlations between sensor measurements to optimize device deployment.
+* **Visualization**: Developed daily and device-wise trend visualizations using **Seaborn** and **Matplotlib** to generate insights for efficient environmental control.
+* **Technologies**: Python (Pandas, NumPy), Matplotlib, Seaborn, Jupyter Notebook.
 
 **Impact of Social Media on Student's Mental Health**
 * Conducted a stratified survey of 200 students at Women's College, AMU, utilizing Google Forms for data collection.
