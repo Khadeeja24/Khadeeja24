@@ -1,5 +1,5 @@
 ## Hi there, I'm Khadeeja 👋
-I’m pursuing a **Master’s in Data Science at Aligarh Muslim University (AMU)**, after completing my **Bachelor’s in Statistics from AMU**.Passionate about data, I love working on real-world problems — from cleaning and exploring datasets, to building predictive models, and creating visualizations that tell impactful stories.My focus is on transforming raw data into actionable insights that support better decision-making.Always curious and eager to learn, I enjoy exploring new tools, techniques, and projects in the field of **machine learning and analytics**.  
+I'm a dedicated Data Science student currently pursuing my **Master's** at **Aligarh Muslim University**, building upon a solid foundation in Statistics. I am passionate about applying Machine Learning and Deep Learning to solve real-world problems through predictive modeling and data-driven insights. With experience ranging from environmental data analysis to healthcare-focused AI, I enjoy transforming complex datasets into actionable solutions.
 
 ---
 ## 🔧 Tools & Technologies
