@@ -21,7 +21,7 @@ I'm a dedicated Data Science student currently pursuing my **Master's** at **Ali
 * **Statistical Modeling & Analysis:** Hypothesis Testing, Linear Algebra
 * **Data Visualization:** Tableau, Matplotlib, Seaborn
 * **Programming:** Python, R, SQL, Python
-* **Tools & Libraries:** NumPy, Pandas, Scikit-learn, Keras, Git, Docker
+* **Tools & Libraries:** NumPy, Pandas, Scikit-learn, Keras
 
 ---
 
