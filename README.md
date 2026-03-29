@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/khadeeja2003">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:khadeejafaizan024@gmail.com">
+  <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#107;&#104;&#97;&#100;&#101;&#101;&#106;&#97;&#102;&#97;&#105;&#122;&#97;&#110;&#48;&#50;&#52;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Khadeeja24">
@@ -17,7 +17,7 @@
   <a href="https://khadeeja24.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
-  <a href="https://1drv.ms/b/c/160e303a15b311c1/ERH3Fi5ggmJBgwel%20i-G98y4B_YB25Adkqu0Iq7ktaQtwFg?e=cInidJ">
+  <a href="https://drive.google.com/file/d/1tHLCQMh21LxXEfiEA_Zk37MrItxC9Jrd/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </p>
@@ -152,5 +152,4 @@ I'm a **Data Science MSc student** at **Aligarh Muslim University**, building on
 
 <p align="center">
   <em>"Data is the new oil — I help refine it." 🛢️</em><br/>
-  📬 khadeejafaizan024@gmail.com · 📍 Aligarh, India
-</p>
+  🌐 <a href="https://khadeeja24.github.io/">Portfolio</a> · 📬 <a hre
