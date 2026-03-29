@@ -8,11 +8,14 @@
   <a href="https://www.linkedin.com/in/khadeeja2003">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:khadeeja.ds24@gmail.com">
+  <a href="/cdn-cgi/l/email-protection#d0bbb8b1b4b5b5bab1b6b1b9aab1bee0e2e490b7bdb1b9bcfeb3bfbd">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/Khadeeja24">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://khadeeja24.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
   <a href="https://1drv.ms/b/c/160e303a15b311c1/ERH3Fi5ggmJBgwel%20i-G98y4B_YB25Adkqu0Iq7ktaQtwFg?e=cInidJ">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
@@ -138,13 +141,13 @@ I'm a **Data Science MSc student** at **Aligarh Muslim University**, building on
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Khadeeja24&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khadeeja24&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
 <p align="center">
   <em>"Data is the new oil — I help refine it." 🛢️</em><br/>
-  📬 Reach me at <a href="mailto:khadeeja.ds24@gmail.com">khadeeja.ds24@gmail.com</a> · 📍 Aligarh, India
-</p>
+  🌐 <a href="https://khadeeja24.github.io/">Portfolio</a> ·
+  📬 Reach me at <a href="/cdn-cgi/l/email-protection#345f5c555051515e55
