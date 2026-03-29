@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/khadeeja2003">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="/cdn-cgi/l/email-protection#d0bbb8b1b4b5b5bab1b6b1b9aab1bee0e2e490b7bdb1b9bcfeb3bfbd">
+  <a href="mailto:khadeeja.ds24@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Khadeeja24">
@@ -150,7 +150,9 @@ I'm a **Data Science MSc student** at **Aligarh Muslim University**, building on
 
 ---
 
+---
+
 <p align="center">
   <em>"Data is the new oil — I help refine it." 🛢️</em><br/>
-  🌐 <a href="https://khadeeja24.github.io/">Portfolio</a> ·
-  📬 Reach me at <a href="/cdn-cgi/l/email-protection#345f5c555051515e55
+  🌐 <a href="https://khadeeja24.github.io/">Portfolio</a> · 📬 <a href="mailto:khadeeja.ds24@gmail.com">khadeeja.ds24@gmail.com</a> · 📍 Aligarh, India
+</p>
