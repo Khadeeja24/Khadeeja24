@@ -150,9 +150,7 @@ I'm a **Data Science MSc student** at **Aligarh Muslim University**, building on
 
 ---
 
----
-
 <p align="center">
   <em>"Data is the new oil — I help refine it." 🛢️</em><br/>
-  🌐 <a href="https://khadeeja24.github.io/">Portfolio</a> · 📬 <a href="mailto:khadeeja.ds24@gmail.com">khadeeja.ds24@gmail.com</a> · 📍 Aligarh, India
+  📬 khadeeja.ds24@gmail.com · 📍 Aligarh, India
 </p>
