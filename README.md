@@ -141,8 +141,11 @@ I'm a **Data Science MSc student** at **Aligarh Muslim University**, building on
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khadeeja24&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khadeeja24&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Khadeeja24&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khadeeja24&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Khadeeja24&theme=tokyonight" width="98%" />
 </p>
 
 ---
